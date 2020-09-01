@@ -2,7 +2,7 @@
  
   ## Description
 
-    make a professional readme.md file
+    make a readme.md file
 
   ## GitHub
 
@@ -41,28 +41,28 @@
   ## Usage
 
     ```
-    na
+    NA
     ```
 
   ## License
 
     This project is licensed under
     ```
-    MIT
+    Mozilla
     ```
-    [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+    [![License](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
 
   ## Contributing
 
     ```
-    na
+    NA
     ```
 
   ## Tests
 
     To run tests, run the following command:
     ```
-    na
+    NA
     ```
   
   ## Questions
