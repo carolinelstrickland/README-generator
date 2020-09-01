@@ -21,7 +21,12 @@ const questions = [
       {
         type: "input",
         name: "URL",
-        message: "What is URL to yur project?"
+        message: "What is URL to your project?"
+      },
+      {
+        type: "input",
+        name: "Title",
+        message: "What is the name of your project?"
       },
       {
         type: "input",
@@ -37,7 +42,7 @@ const questions = [
       {
         type: "input",
         name: "Dependencies",
-        message: "What installation package does your project need?"
+        message: "What command should be run to install dependencies?"
       },
       {
         type: "input",
