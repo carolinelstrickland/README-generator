@@ -51,12 +51,12 @@ const questions = [
       },
       {
         type: "input",
-        name: "Using Repo",
+        name: "Using",
         message: "What does the user need to know about using the repo?"
       },
       {
         type: "input",
-        name: "Contributing to Repo",
+        name: "Contributing",
         message: "What does the user need to know about contributing to the repo?"
       },
       

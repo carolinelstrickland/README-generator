@@ -1,28 +1,72 @@
-# .exit
-
+# README-generator
+ 
   ## Description
 
-    nfdksd
+    make a professional readme.md file
+
+  ## GitHub
+
+    carolinelstrickland
+
+  ## Email
+
+    carolinelstrickland@outlook.com
+
+  ## Project URL
+
+    github.com/carolinelstrickland/README-generator
+
 
   ## Table of Contents:
 
-  * [Installation](#installation)
+    * [Installation](#installation)
 
-  * [Usage] (#usage)
+    * [Usage] (#usage)
 
-  * [License] (#license)
+    * [License] (#license)
 
-  * [Contributing] (#contributing)
+    * [Contributing] (#contributing)
 
-  * [Tests] (#tests)
+    * [Tests] (#tests)
 
-  * [Questions] (#questions)
+    * [Questions] (#questions)
  
+  ## Installation
 
-  ##Installation
+    To install necessary dependencies, run the following command:
+    ```
+    npm install
+    ```
 
-  To install necessary dependencies run the following command:
-  ```
-  dfk
-  ```
+  ## Usage
+
+    ```
+    na
+    ```
+
+  ## License
+
+    This project is licensed under
+    ```
+    MIT
+    ```
+    [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+  ## Contributing
+
+    ```
+    na
+    ```
+
+  ## Tests
+
+    To run tests, run the following command:
+    ```
+    na
+    ```
+  
+  ## Questions
+
+    For any questions regarding this application, please contact carolinelstrickland at carolinelstrickland@outlook.com.
+
   
