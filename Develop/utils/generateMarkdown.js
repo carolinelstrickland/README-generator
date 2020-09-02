@@ -67,9 +67,9 @@ function generateMarkdown(data) {
   ## License
 
     This project is licensed under
-    \`\`\`
+    
     ${data.Licenses}
-    \`\`\`
+    
     ${selectBadge(data.Licenses)}
 
   ## Contributing
