@@ -10,11 +10,11 @@
 
   ## Email
 
-  carolinelstrickland@outlook.com
+  carolinestrickland@outlook.com
 
   ## Project URL
 
-  github.com/carolinelstrickland/README-generator
+  https://github.com/carolinelstrickland/README-generator
 
 
   ## Table of Contents:
@@ -49,10 +49,10 @@
   This project is licensed under:
 
   ```  
-  Mozilla
+  Apache
   ```
     
-  [![License](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
+  [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
   ## Contributing
 
@@ -69,6 +69,6 @@
   
   ## Questions
 
-  For any questions regarding this application, please contact carolinelstrickland at carolinelstrickland@outlook.com.
+  For any questions regarding this application, please contact carolinelstrickland at carolinestrickland@outlook.com.
 
   
