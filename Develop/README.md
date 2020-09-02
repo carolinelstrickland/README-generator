@@ -2,71 +2,73 @@
  
   ## Description
 
-    render professional readme.md file
+  The purpose of this application is to automatically generate a professional README.md file upon the user answers that are captured from the prompts carried out on the command line. Once the prompts are captured, they are then written to a separate markdown file to generate the README.md for display and sharing.
 
   ## GitHub
 
-    carolinelstrickland
+  carolinelstrickland
 
   ## Email
 
-    carolinelstrickland@outlook.com
+  carolinelstrickland@outlook.com
 
   ## Project URL
 
-    github.com/carolinelstrickland/README-generator
+  github.com/carolinelstrickland/README-generator
 
 
   ## Table of Contents:
 
-    * [Installation](#installation)
+  * [Installation](#installation)
 
-    * [Usage] (#usage)
+  * [Usage](#usage)
 
-    * [License] (#license)
+  * [License](#license)
 
-    * [Contributing] (#contributing)
+  * [Contributing](#contributing)
 
-    * [Tests] (#tests)
+  * [Tests](#tests)
 
-    * [Questions] (#questions)
+  * [Questions](#questions)
  
   ## Installation
 
-    To install necessary dependencies, run the following command:
-    ```
-    npm install
-    ```
+  To install necessary dependencies, run the following command:
+  ```
+  npm install
+  ```
 
   ## Usage
 
-    ```
-    na
-    ```
+  ```
+  NA
+  ```
 
   ## License
 
-    This project is licensed under
+  This project is licensed under:
+
+  ```  
+  Mozilla
+  ```
     
-    Apache
-    
-    [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+  [![License](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
 
   ## Contributing
 
-    ```
-    na
-    ```
+  ```
+  NA
+  ```
 
   ## Tests
 
-    To run tests, run the following command:
-    ```
-    na
-    ```
+  To run tests, run the following command:
+  ```
+  NA
+  ```
   
   ## Questions
 
-    For any questions regarding this application, please contact carolinelstrickland at carolinelstrickland@outlook.com.
+  For any questions regarding this application, please contact carolinelstrickland at carolinelstrickland@outlook.com.
 
   

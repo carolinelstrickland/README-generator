@@ -22,72 +22,74 @@ function generateMarkdown(data) {
  
   ## Description
 
-    ${data.Description}
+  ${data.Description}
 
   ## GitHub
 
-    ${data.GitHub}
+  ${data.GitHub}
 
   ## Email
 
-    ${data.Email}
+  ${data.Email}
 
   ## Project URL
 
-    ${data.URL}
+  ${data.URL}
 
 
   ## Table of Contents:
 
-    * [Installation](#installation)
+  * [Installation](#installation)
 
-    * [Usage] (#usage)
+  * [Usage](#usage)
 
-    * [License] (#license)
+  * [License](#license)
 
-    * [Contributing] (#contributing)
+  * [Contributing](#contributing)
 
-    * [Tests] (#tests)
+  * [Tests](#tests)
 
-    * [Questions] (#questions)
+  * [Questions](#questions)
  
   ## Installation
 
-    To install necessary dependencies, run the following command:
-    \`\`\`
-    ${data.Dependencies}
-    \`\`\`
+  To install necessary dependencies, run the following command:
+  \`\`\`
+  ${data.Dependencies}
+  \`\`\`
 
   ## Usage
 
-    \`\`\`
-    ${data.Using}
-    \`\`\`
+  \`\`\`
+  ${data.Using}
+  \`\`\`
 
   ## License
 
-    This project is licensed under
+  This project is licensed under:
+
+  \`\`\`  
+  ${data.Licenses}
+  \`\`\`
     
-    ${data.Licenses}
-    
-    ${selectBadge(data.Licenses)}
+  ${selectBadge(data.Licenses)}
 
   ## Contributing
 
-    \`\`\`
-    ${data.Contributing}
-    \`\`\`
+  \`\`\`
+  ${data.Contributing}
+  \`\`\`
 
   ## Tests
 
-    To run tests, run the following command:
-    \`\`\`
-    ${data.Tests}
-    \`\`\`
+  To run tests, run the following command:
+  \`\`\`
+  ${data.Tests}
+  \`\`\`
   
   ## Questions
 
-    For any questions regarding this application, please contact ${data.GitHub} at ${data.Email}.
+  For any questions regarding this application, please contact ${data.GitHub} at ${data.Email}.
 
   `;
 }
